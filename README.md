@@ -5,6 +5,7 @@ https://github.com/Jaime-Lopez-Diaz-Parcial-1-Eventos/Ejercicio-1-lista-tareas-p
 https://github.com/Jaime-Lopez-Diaz-Parcial-1-Eventos/Ejercicio-2-lista-compra.git
 
 # LINK EJERCICIO 3:
+https://github.com/Jaime-Lopez-Diaz-Parcial-1-Eventos/MisTareas2.git
 
 
 Jaime López Díaz
