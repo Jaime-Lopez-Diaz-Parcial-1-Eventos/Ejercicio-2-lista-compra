@@ -1,3 +1,42 @@
 <resources>
-    <string name="app_name">Ejercicio-2-lista-compra</string>
+    <string name="app_name">Lista de Compras</string>
+    <string name="enter_product_name">Nombre del Producto</string>
+    <string name="enter_quantity">Cantidad</string>
+    <string name="enter_price">Precio Aproximado (€)</string>
+    <string name="add_product">Añadir Producto</string>
+    <string name="total_products">Total de Productos:</string>
+    <string name="total_price">Precio Total:</string>
+    <string name="delete_product">Eliminar Producto</string>
+    <string name="settings">Configuración</string>
+    <string name="enable_dark_mode">Activar Modo Oscuro</string>
+    <string name="change_language">Cambiar Idioma</string>
+
+    <!-- Mensajes de Modo Oscuro -->
+    <string name="dark_mode_enabled">Modo oscuro activado</string>
+    <string name="light_mode_enabled">Modo claro activado</string>
+
+    <!-- Mensajes de Cambio de Idioma -->
+    <string name="language_changed_en">Idioma cambiado a inglés</string>
+    <string name="language_changed_es">Idioma cambiado a español</string>
+
+    <!-- Mensajes de Validación -->
+    <string name="product_name_required">El nombre del producto es obligatorio</string>
+    <string name="quantity_hint">Por defecto: 1</string>
+    <string name="price_hint">Ej. 10.00</string>
+
+    <!-- Otros Textos -->
+    <string name="menu">Menú</string>
+    <string name="no_products">No hay productos en la lista</string>
+
+    <string name="product_name">Nombre del Producto</string>
+    <string name="quantity">Cantidad</string>
+    <string name="approximate_price">Precio Aproximado (€)</string>
+
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="load_products_error">Error al cargar los productos.</string>
+    <string name="add_product_error">Error al agregar el producto.</string>
+    <string name="delete_product_error">Error al eliminar el producto.</string>
+    <string name="quantity_text">Cantidad: %d</string>
+    <string name="price_text">Precio: %s</string>
 </resources>
