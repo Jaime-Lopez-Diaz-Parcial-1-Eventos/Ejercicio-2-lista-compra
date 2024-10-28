@@ -2,7 +2,7 @@
     <string name="app_name">Lista de Compras</string>
     <string name="enter_product_name">Nombre del Producto</string>
     <string name="enter_quantity">Cantidad</string>
-    <string name="enter_price">Precio Aproximado (€)</string>
+    <string name="enter_price">Precio (€)</string>
     <string name="add_product">Añadir Producto</string>
     <string name="total_products">Total de Productos:</string>
     <string name="total_price">Precio Total:</string>
